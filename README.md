@@ -37,7 +37,7 @@ __🛠️ Tecnologias Utilizadas:__
 >    npm install
 >    ```
 > 
-> 3. **Executar o projeto:**
+> 3. **Execute o projeto:**
 >    ```bash
 >    npm start
 >    ```
