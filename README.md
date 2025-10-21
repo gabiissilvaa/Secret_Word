@@ -1,6 +1,7 @@
-# 🎯 Adivinhe a Palavra
 <div align="center">
-  
+
+# 🎯 Adivinhe a Palavra
+
 *Um jogo interativo desenvolvido para adivinhar palavras com base em dicas!*
 
 </div>
